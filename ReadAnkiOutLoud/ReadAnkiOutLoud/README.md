@@ -9,7 +9,7 @@ Perfect for:
 - People with busy hands (driving, meal prep, gym)
 - ADHD / auditory learners
 - Anyone who wants Anki to feel like a personal tutor
-
+ 
 ---
 
 ## 🚀 Features
