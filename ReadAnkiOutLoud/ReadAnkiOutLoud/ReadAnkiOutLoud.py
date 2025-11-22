@@ -258,7 +258,7 @@ def rewrite_for_speech(client: OpenAI, text: str, side_label: str) -> str:
 
 ANKI_CONNECT_URL = "http://127.0.0.1:8765"
 
-DECK_QUERY = 'deck:"Drew Missed Ste2::Master deck::CCSEMissed" is:due'
+DECK_QUERY = 'deck:"***add your deck name with the :: for subdeck and copy paste it here***" is:due'
 READ_SIDE = "both"  # informational
 
 VISION_MODEL = "gpt-4.1-mini"
