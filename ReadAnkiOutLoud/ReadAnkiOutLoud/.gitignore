@@ -1,0 +1,46 @@
+﻿# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+env/
+venv/
+.venv/
+
+# --- Audio temp files ---
+*.wav
+*.mp3
+*.tmp
+*.aac
+*.ogg
+
+# --- Logs ---
+*.log
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Python packaging ---
+build/
+dist/
+*.egg-info/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Temporary ---
+*.swp
+*.swo
+*~
+tmp/
+temp/
+
+# --- FFmpeg temp output ---
+*.ffcache
+*.partial.*
+

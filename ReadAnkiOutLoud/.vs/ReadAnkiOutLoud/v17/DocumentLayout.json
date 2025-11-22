@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFE0436-48CB-4DB7-B2A2-BCB21BB707FA}|ReadAnkiOutLoud\\ReadAnkiOutLoud.pyproj|C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\ReadAnkiOutLoud\\ReadAnkiOutLoud.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6BFE0436-48CB-4DB7-B2A2-BCB21BB707FA}|ReadAnkiOutLoud\\ReadAnkiOutLoud.pyproj|solutionrelative:ReadAnkiOutLoud\\ReadAnkiOutLoud.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFE0436-48CB-4DB7-B2A2-BCB21BB707FA}|ReadAnkiOutLoud\\ReadAnkiOutLoud.pyproj|C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\ReadAnkiOutLoud\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BFE0436-48CB-4DB7-B2A2-BCB21BB707FA}|ReadAnkiOutLoud\\ReadAnkiOutLoud.pyproj|solutionrelative:ReadAnkiOutLoud\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\ReadAnkiOutLoud\\config.json",
+              "RelativeDocumentMoniker": "ReadAnkiOutLoud\\config.json",
+              "ToolTip": "C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\ReadAnkiOutLoud\\config.json",
+              "RelativeToolTip": "ReadAnkiOutLoud\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T19:28:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadAnkiOutLoud.py",
+              "DocumentMoniker": "C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\ReadAnkiOutLoud\\ReadAnkiOutLoud.py",
+              "RelativeDocumentMoniker": "ReadAnkiOutLoud\\ReadAnkiOutLoud.py",
+              "ToolTip": "C:\\Users\\drewa\\source\\repos\\ReadAnkiOutLoud\\ReadAnkiOutLoud\\ReadAnkiOutLoud.py",
+              "RelativeToolTip": "ReadAnkiOutLoud\\ReadAnkiOutLoud.py",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAvwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-22T19:00:24.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
